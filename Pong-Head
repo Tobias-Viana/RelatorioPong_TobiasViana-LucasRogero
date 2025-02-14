@@ -1,56 +1,53 @@
-# Relatório - Reinventando Pong
-## 1. Introdução  
-O objetivo da atividade foi reinventar o jogo Pong, trazendo uma nova abordagem para a jogabilidade e o visual. Para isso, nossa dupla adicionou botões de controle nos cantos da tela, permitindo que as "raquetes" se movessem para a direita e para a esquerda, melhorando a experiência do jogador. Além disso, o design do jogo foi modificado, incorporando elementos visuais temáticos que substituem as tradicionais raquetes e bola, tornando a proposta mais imersiva e diferenciada.
----
-## 2. Pesquisa e Análise Inicial  
-O Pong original se baseia em uma simples mecânica do tênis de mesa
-Mecânica: O jogo funciona com base em movimentação simples das raquetes para cima e para baixo e com movimentos básicos da bola, que rebate nas superfícies e segue trajetórias previsíveis.
-Dinâmica: O jogo cria uma competição entre os jogadores, exigindo reflexos rápidos e estratégia para antecipar a trajetória da bola e vencer o adversário.
-Estética: Pong gera uma experiência de desafio e nostalgia, proporcionando uma diversão simples, mas envolvente, baseada na disputa direta entre jogadores ou contra a máquina.
-Os principais elementos de diversão é a competição entre os jogadores, na necessidade de reflexos rápidos e sempre tentando buscar por superar os adversários.
----
-## 3. Proposta de Reinvenção  
-O nome do jogo é Pong Head, onde introduzimos cabeças no lugar das "raquetes" e em relação a bola foi adicionado vários recursos aos seus respectivos temas diferentes. Por exemplo:
-Raquetes implementadas: 
-Cabeça de Astronauta
-Cabeça de Zumbi
-Cabeça de Caveira
-Bolas implentadas:
+#Relatório - Reinventando Pong
+#1. Introdução
+O objetivo da atividade foi reinventar o jogo Pong, trazendo uma nova abordagem para a jogabilidade e o visual. Para isso, nossa dupla adicionou botões de controle nos cantos da tela, permitindo que as "raquetes" se movessem para a direita e para a esquerda, melhorando a experiência do jogador. Além disso, modificamos o design do jogo, substituindo as tradicionais raquetes e bolas por elementos visuais temáticos, tornando a proposta mais imersiva e diferenciada.
+
+#2. Pesquisa e Análise Inicial
+O jogo Pong original se baseia na mecânica simples do tênis de mesa, possuindo os seguintes elementos dentro do Framework MDA:
+
+Mecânica: O jogo utiliza movimentação simples das raquetes para cima e para baixo, além da física básica da bola, que rebate nas superfícies e segue trajetórias previsíveis.
+Dinâmica: A partida cria uma competição entre os jogadores, exigindo reflexos rápidos e estratégia para antecipar a trajetória da bola e vencer o adversário.
+Estética: Pong proporciona uma experiência de desafio e nostalgia, sendo um jogo simples, mas envolvente, baseado na disputa direta entre jogadores ou contra a máquina.
+Os principais elementos de diversão e desafio estão na competição, na necessidade de reflexos rápidos e na busca constante por superar o adversário.
+
+#3. Proposta de Reinvenção
+Tema e Ambientação
+Nosso jogo recebeu o nome Pong Head, pois introduzimos cabeças no lugar das "raquetes". Além disso, adicionamos diferentes elementos visuais como bolas temáticas, de acordo com o universo de cada personagem.
+
+Personagens e Elementos Visuais
+Raquetes (Cabeças Implementadas):
+
+Astronauta
+Zumbi
+Caveira
+Bolas Implementadas:
+
 Cérebro
 Saturno
 Osso
-As regras do jogo não foram modificadas, mas na mecânica foi adicionado "setinhas" para controlar as "cabeças" de forma mais controlada e ter uma jogabilidade melhor. Com a introdução de cenários diferentes em relação as "raquetes" e as "bolas" buscamos explorar uma nova perspectiva como a ideia inicial do jogo pode ser introduzida em vários universos alternativos.  
+Mudanças na Mecânica e Objetivo da Reinvenção
+As regras básicas do jogo foram mantidas, mas aprimoramos a mecânica ao adicionar botões de controle ("setinhas") que permitem um deslocamento mais preciso das "cabeças", melhorando a jogabilidade. Além disso, ao introduzir diferentes cenários e combinações de personagens e bolas, buscamos explorar como a ideia original do Pong pode ser aplicada a diversos universos alternativos.
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+Inclua aqui um rascunho da Folha de Concept Art e uma explicação sobre como o esboço foi desenvolvido.
 
----
+#4. Tela Digital do Jogo
+Adicione aqui a imagem da tela digital finalizada ou o link para o arquivo.
 
-## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+Como o concept foi adaptado para o formato digital?
+Utilizamos a ferramenta Canva para desenvolver o cenário e os elementos visuais do jogo.
 
-*- Como o concept foi adaptado para o formato digital?*
+Quais elementos visuais foram aprimorados?
+Melhoramos o fundo da partida, reformulamos os visuais das "raquetes" e "bolas" e ajustamos os detalhes gráficos para criar um jogo mais atrativo e dinâmico.
 
-*- Quais elementos visuais foram aprimorados?*  
+O uso de cores, formas e layout foi pensado para reforçar quais aspectos do jogo?
+O design foi planejado para criar uma identidade visual mais envolvente, utilizamos cores vibrantes para diferenciar cada universo temático e reforçar a imersão no jogo.
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
-
----
-
-## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
-
-1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
-
----
-
-## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
-
----
-
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
-
-📌 **Prazo de entrega:** Sexta-feira, às 23h59.
+#5. Reflexão e Aprendizados
+Quais foram os maiores desafios enfrentados durante o processo de criação?
+Tobias: Tive dificuldade em gerar ideias para modificar os aspectos originais do jogo.
+Lucas: Enfrentei desafios no processo de ilustrar e dar forma às ideias geradas pela dupla.
+Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+Tobias: Aprendi a estruturar melhor uma tela digital, aprimorando conceitos de design e organização visual.
+Lucas: Aprimorei minha compreensão sobre design gráfico, melhorando minha interação com ferramentas como o Canva.
+#6. Referências (se houver)
+OpenAI. ChatGPT foi utilizado para revisão e correção gramatical deste relatório.
