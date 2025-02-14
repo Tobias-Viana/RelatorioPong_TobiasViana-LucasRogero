@@ -1,0 +1,56 @@
+# Relatório - Reinventando Pong
+## 1. Introdução  
+O objetivo da atividade foi reinventar o jogo Pong, trazendo uma nova abordagem para a jogabilidade e o visual. Para isso, nossa dupla adicionou botões de controle nos cantos da tela, permitindo que as "raquetes" se movessem para a direita e para a esquerda, melhorando a experiência do jogador. Além disso, o design do jogo foi modificado, incorporando elementos visuais temáticos que substituem as tradicionais raquetes e bola, tornando a proposta mais imersiva e diferenciada.
+---
+## 2. Pesquisa e Análise Inicial  
+O Pong original se baseia em uma simples mecânica do tênis de mesa
+Mecânica: O jogo funciona com base em movimentação simples das raquetes para cima e para baixo e com movimentos básicos da bola, que rebate nas superfícies e segue trajetórias previsíveis.
+Dinâmica: O jogo cria uma competição entre os jogadores, exigindo reflexos rápidos e estratégia para antecipar a trajetória da bola e vencer o adversário.
+Estética: Pong gera uma experiência de desafio e nostalgia, proporcionando uma diversão simples, mas envolvente, baseada na disputa direta entre jogadores ou contra a máquina.
+Os principais elementos de diversão é a competição entre os jogadores, na necessidade de reflexos rápidos e sempre tentando buscar por superar os adversários.
+---
+## 3. Proposta de Reinvenção  
+O nome do jogo é Pong Head, onde introduzimos cabeças no lugar das "raquetes" e em relação a bola foi adicionado vários recursos aos seus respectivos temas diferentes. Por exemplo:
+Raquetes implementadas: 
+Cabeça de Astronauta
+Cabeça de Zumbi
+Cabeça de Caveira
+Bolas implentadas:
+Cérebro
+Saturno
+Osso
+As regras do jogo não foram modificadas, mas na mecânica foi adicionado "setinhas" para controlar as "cabeças" de forma mais controlada e ter uma jogabilidade melhor. Com a introdução de cenários diferentes em relação as "raquetes" e as "bolas" buscamos explorar uma nova perspectiva como a ideia inicial do jogo pode ser introduzida em vários universos alternativos.  
+
+*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+
+---
+
+## 4. Tela Digital do Jogo  
+*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+
+*- Como o concept foi adaptado para o formato digital?*
+
+*- Quais elementos visuais foram aprimorados?*  
+
+*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+
+---
+
+## 5. Reflexão e Aprendizados  
+*Cada membro da dupla deve responder individualmente:*  
+
+1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+
+---
+
+## 6. Referências (se houver)  
+Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
+
+---
+
+**📝 Formato de Entrega:**  
+- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
+- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
+
+📌 **Prazo de entrega:** Sexta-feira, às 23h59.
